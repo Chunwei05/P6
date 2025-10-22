@@ -5,6 +5,7 @@ from src.business_logic import can_use_makerspace
 '''
 Feasible Paths Analysis for 100% Path Coverage: 
 
+
 Based on the control flow graph and code logic analysis:
 
 Path 1: 1 → 2(T) → 3 → 7(F) → 9 → 10
