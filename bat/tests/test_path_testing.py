@@ -3,7 +3,7 @@ import unittest
 from src.business_logic import can_use_makerspace
 
 '''
-Feasible Paths Analysis for 100% Path Coverage:
+Feasible Paths Analysis for 100% Path Coverage: 
 
 Based on the control flow graph and code logic analysis:
 
